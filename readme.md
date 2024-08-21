@@ -31,11 +31,7 @@ The **Decentralized Education Certificate Issuance** contract aims to revolution
 
 ## Contract Address
 
-The contract can be deployed on any Ethereum-compatible blockchain. For example, if deployed on the Ethereum test network (Rinkeby), the address will be:
-
-- **Contract Address (Example):** 0x6A8A0375B781627Cf3D7c5DB02576771648263A4
-
-Make sure to replace this with the actual address once deployed.
+- **Contract Address** 0x6A8A0375B781627Cf3D7c5DB02576771648263A4
 
 ![alt text](<Screenshot 2024-08-21 115302-1.png>)
 
